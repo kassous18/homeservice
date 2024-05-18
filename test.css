@@ -1,0 +1,86 @@
+/* Set the font family for the entire page */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Style the header section */
+  header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Style the h1 element */
+  h1 {
+    color: #343a40;
+    font-size: 2rem;
+  }
+  
+  /* Style the navigation menu */
+  nav {
+    background-color: #e9ecef;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Style the unordered list in the navigation menu */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the list items in the navigation menu */
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  /* Style the links in the navigation menu */
+  nav a {
+    color: #343a40;
+    text-decoration: none;
+  }
+  
+  /* Style the main content section */
+  main {
+    padding: 20px;
+  }
+  
+  /* Style the section headings */
+  section h2 {
+    color: #343a40;
+    font-size: 1.5rem;
+  }
+  
+  /* Style the paragraph text */
+  p {
+    color: #6c757d;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  /* Style the unordered list */
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the list items */
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Style the footer section */
+  footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Style the footer text */
+  footer p {
+    color: #6c757d;
+    font-size: 0.8rem;
+  }
